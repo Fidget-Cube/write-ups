@@ -4,7 +4,7 @@ Write-ups on challenges for various CTFs (cyber security competitions).
 
 I'll try to explain how to do each challenge to the best of my ability, as well as provide example and proof-of-concept code.
 
-Thanks to pcw109550 for the inspiration, the format here may look similar :)
+Thanks to [pcw109550](https://github.com/pcw109550) for the inspiration, the format here may look similar :)
 
 ## 2023
 - **DiceCTF** - February 3-5
