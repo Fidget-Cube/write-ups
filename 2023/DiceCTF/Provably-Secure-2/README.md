@@ -1,12 +1,11 @@
 # Provably Secure 2
-## Now with less cheese! Still pretty simple though
-`nc mc.ax 31497`
-> category: Crypto
-> author: jyu
-> solves: 155
-> points: 117
-> challenge file(s): [server.py](https://github.com/Fidget-Cube/write-ups/tree/master/2023/DiceCTF/Provably-Secure-2/server.py)
-> solution file(s): [client.py](https://github.com/Fidget-Cube/write-ups/tree/master/2023/DiceCTF/Provably-Secure-2/client.py)
+## Now with less cheese! Still pretty simple though. `nc mc.ax 31497`
+> category: Crypto  
+> author: jyu  
+> solves: 155  
+> points: 117  
+> challenge file(s): [server.py](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DiceCTF/Provably-Secure-2/server.py)  
+> solution file(s): [client.py](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DiceCTF/Provably-Secure-2/client.py)  
 
 
 This server is basically a simulation of the IND-CCA2 game testing a custom cryptographic system. The game is described in detail here https://en.wikipedia.org/wiki/Ciphertext_indistinguishability.  

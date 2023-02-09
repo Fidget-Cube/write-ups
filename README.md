@@ -8,4 +8,4 @@ Thanks to [pcw109550](https://github.com/pcw109550) for the inspiration, the for
 
 ## 2023
 - **DiceCTF** - February 3-5
-  - [Provaby Secure 2](https://github.com/Fidget-Cube/write-ups/tree/master/2023/DiceCTF/Provably-Secure-2) - Prove a custom cryptosystem insecure under IND_CCA2
+  - [Provaby Secure 2](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DiceCTF/Provably-Secure-2) - Prove a custom cryptosystem insecure under IND_CCA2
