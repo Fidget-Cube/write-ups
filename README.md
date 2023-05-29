@@ -9,3 +9,6 @@ Thanks to [pcw109550](https://github.com/pcw109550) for the inspiration, the for
 ## 2023
 - **DiceCTF** - February 3-5
   - [Provaby Secure 2](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DiceCTF/Provably-Secure-2) - Prove a custom cryptosystem insecure under IND_CCA2
+- **DEFCON CTF Qualifiers** - May 26-28
+  - [OMGzip](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DEFCON_CTF_Qualifiers/OMGzip) - Understand a custom compression algorithm written in Python, and write a decryption algorithm
+  
