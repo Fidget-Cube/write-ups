@@ -3,7 +3,7 @@
 > solves: 79  
 > points: 56  
 > challenge file(s): [omgzip](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DEFCON_CTF_Qualifiers/OMGzip/omgzip), [data.tar.omgzip](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DEFCON_CTF_Qualifiers/OMGzip/data.tar.omgzip)  
-> solution file(s): [decompressor.py](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DEFCON_CTF_Qualifiers/OMGzip/decompressor.py) 
+> solution file(s): [decompressor.py](https://github.com/Fidget-Cube/write-ups/tree/main/2023/DEFCON_CTF_Qualifiers/OMGzip/decompressor.py)  
 > original challenge github: https://github.com/Nautilus-Institute/quals-2023/tree/main/omgzip  
 
 data.tar.omgzip is a .tar file compressed using a custom compression program called omgzip. The Python source code for omgzip is provided, so all you need to do is reverse the logic of the program and write your own decompression program.
